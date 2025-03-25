@@ -11,6 +11,9 @@ dependencies:
   provider: ^6.1.2
   http: ^1.2.2
   google_maps_flutter: ^2.10.0
+  animated_button: 
+    git:
+      url: https://github.com/sabin6969/Animated-Button
 
 dev_dependencies:
   flutter_test:
